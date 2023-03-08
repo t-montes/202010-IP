@@ -6,9 +6,6 @@ Tony Santiago Montes Buitrago - <t.montes@uniandes.edu.co>
 
 This repository contains all the projects by levels carried out in the Introduction to Programming course in my first semester, within each level folder are the statements of each level and the solution I built for it.
 
-<br>
-<br>
-<br>
 
 # Introducción a la Programación
 
